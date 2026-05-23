@@ -1,5 +1,8 @@
 Uber Eats Bangalore Restaurant Intelligence & Decision Support Systems
+
+
 Project Overview:
+
 This project is a Decision Support System (DSS) designed to analyze the Uber Eats restaurant ecosystem in Bangalore. Unlike traditional dashboards that rely on charts, this system mirrors internal corporate analytics tools where stakeholders require precise, tabular data to drive strategy.The system uses Python for ETL, MySQL/SQLite for the analytical engine, and Streamlit to deliver a clean, spreadsheet-style interface for business users.
 
 Tech Stack & SkillsLanguage: Python 3.xData Manipulation: Pandas, 
